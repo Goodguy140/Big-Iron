@@ -9,7 +9,6 @@ export interface TrackData {
 	onFinish: () => void;
 	onError: (error: Error) => void;
 }
-
 const noop = () => {};
 
 export class Track implements TrackData {

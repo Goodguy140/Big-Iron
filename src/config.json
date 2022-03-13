@@ -2,5 +2,7 @@
     "TOKEN": "OTQ3MjM4MzU2NDUzMDUyNDc3.YhqWdw.d4NdwFR53D08ZzLXivZPK_nvshc",
     "CLIENT_ID": "947238356453052477",
     "TEST_GUILD_ID": "947238964920721450",
-    "MAIN_GUILD_ID": "890719313810575382"
+    "MAIN_GUILD_ID": "890719313810575382",
+
+    "DBURI": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.2.2/discord-bot"
 }
